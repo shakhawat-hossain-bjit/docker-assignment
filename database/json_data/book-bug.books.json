@@ -1,0 +1,2453 @@
+[{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d0"
+  },
+  "author": "Chinua Achebe",
+  "country": "Nigeria",
+  "imageLink": "images/things-fall-apart.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+  "pages": 209,
+  "title": "Things Fall Apart",
+  "year": 1958,
+  "price": 229.9,
+  "rating": 4.71,
+  "reviewCount": 56,
+  "stock": 15,
+  "updatedAt": {
+    "$date": "2023-10-13T02:47:01.964Z"
+  },
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780141439556",
+  "discounts": [
+    {
+      "$oid": "6508211515380b9ef60cff2a"
+    },
+    {
+      "$oid": "65082ceed61f69f68d14102b"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "650999f1be160bc320d9cc6b"
+    }
+  ],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/ThingsFallApart.jpg/220px-ThingsFallApart.jpg",
+    "https://brittlepaper.com/wp-content/uploads/2017/04/C9mMCcZXgAE7M9a-e1492634928104.jpg",
+    "https://1.bp.blogspot.com/-PEcpd1bz2D0/Viqgc6AnG3I/AAAAAAAALvo/xKJagkryo_k/s1600/tfa10.jpg"
+  ],
+  "views": 60596
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d1"
+  },
+  "author": "Hans Christian Andersen",
+  "country": "Denmark",
+  "imageLink": "images/fairy-tales.jpg",
+  "language": "Danish",
+  "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+  "pages": 784,
+  "title": "Fairy tales",
+  "year": 1836,
+  "price": 862.4,
+  "rating": 3.99,
+  "reviewCount": 53,
+  "stock": 109,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780099908401",
+  "updatedAt": {
+    "$date": "2023-10-12T18:26:14.911Z"
+  },
+  "reviews": [
+    {
+      "$oid": "65099a05be160bc320d9cc71"
+    },
+    {
+      "$oid": "650a73e2193b21506c9d648d"
+    }
+  ],
+  "discounts": [
+    {
+      "$oid": "6508211515380b9ef60cff2a"
+    }
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/81+DlS6jwSL._AC_UF1000,1000_QL80_.jpg",
+    "https://imaginationsoup.net/wp-content/uploads/2021/07/f-is-for-fairy-tale-715x939.jpeg"
+  ],
+  "views": 41182
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d2"
+  },
+  "author": "Dante Alighieri",
+  "country": "Italy",
+  "imageLink": "images/the-divine-comedy.jpg",
+  "language": "Italian.",
+  "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+  "pages": 928,
+  "title": "The Divine Comedy.",
+  "year": 1315,
+  "price": 1345,
+  "rating": 3.87,
+  "reviewCount": 933,
+  "stock": 260,
+  "updatedAt": {
+    "$date": "2023-10-14T04:28:59.907Z"
+  },
+  "category": [
+    "Poetry"
+  ],
+  "isbn": "9780679722649",
+  "discounts": [
+    {
+      "$oid": "6508211515380b9ef60cff2a"
+    },
+    {
+      "$oid": "651a9b2dc97b9e43911bed30"
+    }
+  ],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dante_Domenico_di_Michelino.jpg/485px-Dante_Domenico_di_Michelino.jpg"
+  ],
+  "views": 14329
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d3"
+  },
+  "author": "Unknown",
+  "country": "Sumer and Akkadian Empire",
+  "imageLink": "images/the-epic-of-gilgamesh.jpg",
+  "language": "Akkadian",
+  "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+  "pages": 160,
+  "title": "The Epic Of Gilgamesh",
+  "year": -1700,
+  "price": 416,
+  "rating": 4.09,
+  "reviewCount": 1209,
+  "stock": 50,
+  "updatedAt": {
+    "$date": "2023-10-12T18:56:37.587Z"
+  },
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451524935",
+  "images": [
+    "https://m.media-amazon.com/images/I/81d4BxH9I7L._AC_UF1000,1000_QL80_.jpg",
+    "https://img1.od-cdn.com/ImageType-400/6852-1/5D2/11D/BA/%7B5D211DBA-9C77-47D9-8E0D-C56E72C76270%7DImg400.jpg"
+  ],
+  "views": 99363,
+  "reviews": [],
+  "__v": 1,
+  "discounts": []
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d4"
+  },
+  "author": "Unknown",
+  "country": "Achaemenid Empire",
+  "imageLink": "images/the-book-of-job.jpg",
+  "language": "Hebrew",
+  "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+  "pages": 176,
+  "title": "The Book Of Job",
+  "year": -600,
+  "price": 440,
+  "rating": 4.25,
+  "reviewCount": 1435,
+  "stock": 25,
+  "category": [
+    "Religious"
+  ],
+  "isbn": "9780140440266",
+  "images": [
+    "https://avirtuouswoman.org/wp-content/uploads/2017/05/The-Book-of-Job-Bible-Study_800.jpg",
+    "https://lifesourcebookshop.co.uk/wp-content/uploads/book_of_job_4q16_bible_book_shelf_graham_i_cover.jpg"
+  ],
+  "views": 42285
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d5"
+  },
+  "author": "Unknown",
+  "country": "India/Iran/Iraq/Egypt/Tajikistan",
+  "imageLink": "images/one-thousand-and-one-nights.jpg",
+  "language": "Arabic",
+  "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+  "pages": 288,
+  "title": "One Thousand and One Nights",
+  "year": 1200,
+  "price": 518.4,
+  "rating": 4.55,
+  "reviewCount": 1258,
+  "stock": 213,
+  "updatedAt": {
+    "$date": "2023-09-19T11:08:42.444Z"
+  },
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526342",
+  "discounts": [
+    {
+      "$oid": "6509813a6912912e8e219110"
+    },
+    {
+      "$oid": "651a9c3cc97b9e43911bed31"
+    }
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/81ojGyv4KXL._AC_UF1000,1000_QL80_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363624580i/13109354.jpg",
+    "https://pictures.abebooks.com/isbn/9781408826041-uk.jpg"
+  ],
+  "views": 74569
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d6"
+  },
+  "author": "Unknown",
+  "country": "Iceland",
+  "imageLink": "images/njals-saga.jpg",
+  "language": "Old Norse",
+  "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+  "pages": 384,
+  "title": "Njál's Saga",
+  "year": 1350,
+  "price": 556.8,
+  "rating": 4.74,
+  "reviewCount": 1639,
+  "stock": 124,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526885",
+  "updatedAt": {
+    "$date": "2023-10-12T18:27:06.113Z"
+  },
+  "images": [
+    "https://i.pinimg.com/originals/67/b7/f2/67b7f2d423cda90a03c5dbe687f9c6cb.jpg",
+    "https://naxosaudiobooks.com/wp-content/uploads/2019/08/0375_Njal_s_Saga-cover.jpg"
+  ],
+  "views": 77519
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d7"
+  },
+  "author": "Jane Austen",
+  "country": "United Kingdom",
+  "imageLink": "images/pride-and-prejudice.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+  "pages": 226,
+  "title": "Pride and Prejudice",
+  "year": 1813,
+  "price": 248.6,
+  "rating": 3.35,
+  "reviewCount": 1243,
+  "stock": 251,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780743273565",
+  "updatedAt": {
+    "$date": "2023-10-12T18:27:06.114Z"
+  },
+  "images": [
+    "https://images.squarespace-cdn.com/content/v1/58c180edff7c50dd0e51a2ad/1596042032039-IN7LLXRVDKGVC854LVHE/9780241375273.jpg",
+    "https://digitalausten.org/sites/default/files/media/image/2023-02/Front%20Cover%20.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58c180edff7c50dd0e51a2ad/1596041993633-UW2GTN4JZP8XLPZKKXCJ/9781847493699.jpg"
+  ],
+  "views": 86462
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d8"
+  },
+  "author": "Honoré de Balzac",
+  "country": "France",
+  "imageLink": "images/le-pere-goriot.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+  "pages": 443,
+  "title": "Le Père Goriot",
+  "year": 1835,
+  "price": 487.3,
+  "rating": 4.27,
+  "reviewCount": 410,
+  "stock": 102,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780553212785",
+  "images": [
+    "https://cdn2.penguin.com.au/covers/original/9780451529596.jpg"
+  ],
+  "views": 85280
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71d9"
+  },
+  "author": "Samuel Beckett",
+  "country": "Republic of Ireland",
+  "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+  "language": "French, English",
+  "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+  "pages": 256,
+  "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+  "year": 1952,
+  "price": 281.6,
+  "rating": 3.16,
+  "reviewCount": 1862,
+  "stock": 142,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780486280615",
+  "updatedAt": {
+    "$date": "2023-10-11T10:19:35.556Z"
+  },
+  "images": [
+    "https://i.ebayimg.com/images/g/F1wAAOSwsEVhOxTm/s-l1600.jpg",
+    "https://i.ebayimg.com/images/g/LNIAAOSwZ15eNtje/s-l1600.jpg"
+  ],
+  "views": 17044
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71da"
+  },
+  "author": "Giovanni Boccaccio",
+  "country": "Italy",
+  "imageLink": "images/the-decameron.jpg",
+  "language": "Italian",
+  "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+  "pages": 1024,
+  "title": "The Decameron",
+  "year": 1351,
+  "price": 1484.8,
+  "rating": 4.91,
+  "reviewCount": 659,
+  "stock": 55,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780679783275",
+  "updatedAt": {
+    "$date": "2023-09-18T04:05:20.966Z"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/51QhiCsrYDL.jpg",
+    "https://cdn.kobo.com/book-images/6c3d6493-6f70-4a0c-9bcb-f270f1d0175d/353/569/90/False/the-decameron-34.jpg"
+  ],
+  "views": 62815
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71db"
+  },
+  "author": "Jorge Luis Borges",
+  "country": "Argentina",
+  "imageLink": "images/ficciones.jpg",
+  "language": "Spanish",
+  "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+  "pages": 224,
+  "title": "Ficciones",
+  "year": 1965,
+  "price": 246.4,
+  "rating": 2.66,
+  "reviewCount": 1985,
+  "stock": 91,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780142437213",
+  "views": 6913
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71dc"
+  },
+  "author": "Emily Brontë",
+  "country": "United Kingdom",
+  "imageLink": "images/wuthering-heights.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+  "pages": 342,
+  "title": "Wuthering Heights",
+  "year": 1847,
+  "price": 376.2,
+  "rating": 3.83,
+  "reviewCount": 1407,
+  "stock": 97,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780199536368",
+  "views": 91964
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71dd"
+  },
+  "author": "Albert Camus",
+  "country": "Algeria, French Empire",
+  "imageLink": "images/l-etranger.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+  "pages": 185,
+  "title": "The Stranger",
+  "year": 1942,
+  "price": 203,
+  "rating": 4.95,
+  "reviewCount": 812,
+  "stock": 8,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451512383",
+  "images": [
+    "https://m.media-amazon.com/images/I/61sVLED+vjL._AC_UF1000,1000_QL80_.jpg",
+    "https://miro.medium.com/v2/resize:fit:1400/1*YJwz55h50sdHOoj--FF7Lg.jpeg"
+  ],
+  "views": 59483,
+  "updatedAt": {
+    "$date": "2023-10-11T08:05:45.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71de"
+  },
+  "author": "Paul Celan",
+  "country": "Romania, France",
+  "imageLink": "images/poems-paul-celan.jpg",
+  "language": "German",
+  "link": "\n",
+  "pages": 320,
+  "title": "Poems",
+  "year": 1952,
+  "price": 352,
+  "rating": 4.39,
+  "reviewCount": 1993,
+  "stock": 263,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451511652",
+  "views": 99877
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71df"
+  },
+  "author": "Louis-Ferdinand Céline",
+  "country": "France",
+  "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+  "pages": 505,
+  "title": "Journey to the End of the Night",
+  "year": 1932,
+  "price": 555.5,
+  "rating": 4.93,
+  "reviewCount": 78,
+  "stock": 99,
+  "category": [
+    "Poetry"
+  ],
+  "isbn": "9780143039969",
+  "updatedAt": {
+    "$date": "2023-09-19T03:25:19.392Z"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/711wf2TWciL._AC_UF894,1000_QL80_.jpg",
+    "https://i.pinimg.com/originals/66/b2/68/66b2685be7b2bb138fb547ea5f690a3a.jpg"
+  ],
+  "views": 59797
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e0"
+  },
+  "author": "Miguel de Cervantes",
+  "country": "Spain",
+  "imageLink": "images/don-quijote-de-la-mancha.jpg",
+  "language": "Spanish",
+  "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+  "pages": 1056,
+  "title": "Don Quijote De La Mancha",
+  "year": 1610,
+  "price": 1320,
+  "rating": 4.62,
+  "reviewCount": 1875,
+  "stock": 230,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780141439471",
+  "views": 7396
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e1"
+  },
+  "author": "Geoffrey Chaucer",
+  "country": "England",
+  "imageLink": "images/the-canterbury-tales.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+  "pages": 544,
+  "title": "The Canterbury Tales",
+  "year": 1450,
+  "price": 734.4,
+  "rating": 4.24,
+  "reviewCount": 1268,
+  "stock": 211,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780143039433",
+  "views": 18117
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e2"
+  },
+  "author": "Anton Chekhov",
+  "country": "Russia",
+  "imageLink": "images/stories-of-anton-chekhov.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+  "pages": 194,
+  "title": "Stories",
+  "year": 1886,
+  "price": 213.4,
+  "rating": 3.3,
+  "reviewCount": 1260,
+  "stock": 135,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451511263",
+  "views": 43885
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e3"
+  },
+  "author": "Joseph Conrad",
+  "country": "United Kingdom",
+  "imageLink": "images/nostromo.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+  "pages": 320,
+  "title": "Nostromo",
+  "year": 1904,
+  "price": 352,
+  "rating": 3.84,
+  "reviewCount": 1271,
+  "stock": 210,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780140187393",
+  "images": [
+    "https://pictures.abebooks.com/inventory/md/md30937518035.jpg",
+    "https://covers.openlibrary.org/b/id/6545112-L.jpg"
+  ],
+  "views": 68833
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e4"
+  },
+  "author": "Charles Dickens",
+  "country": "United Kingdom",
+  "imageLink": "images/great-expectations.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+  "pages": 194,
+  "title": "Great Expectations",
+  "year": 1861,
+  "price": 213.4,
+  "rating": 4.33,
+  "reviewCount": 1736,
+  "stock": 115,
+  "category": [
+    "Poetry"
+  ],
+  "isbn": "9780143039471",
+  "imges": [
+    "https://www.bookshare.org/cover/0a/0auPi7YWpN4l1uQgljgLc--1ip8cMI6MetuAQ_DwrT0-MEDIUM.jpg"
+  ],
+  "views": 51790
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e5"
+  },
+  "author": "Denis Diderot",
+  "country": "France",
+  "imageLink": "images/jacques-the-fatalist.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+  "pages": 596,
+  "title": "Jacques the Fatalist",
+  "year": 1796,
+  "price": 745,
+  "rating": 4.23,
+  "reviewCount": 1007,
+  "stock": 125,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780141439617",
+  "views": 97542
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e6"
+  },
+  "author": "Alfred Döblin",
+  "country": "Germany",
+  "imageLink": "images/berlin-alexanderplatz.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+  "pages": 600,
+  "title": "Berlin Alexanderplatz",
+  "year": 1929,
+  "price": 660,
+  "rating": 3.5,
+  "reviewCount": 1445,
+  "stock": 281,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526342",
+  "views": 58094
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e7"
+  },
+  "author": "Fyodor Dostoevsky",
+  "country": "Russia",
+  "imageLink": "images/crime-and-punishment.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+  "pages": 551,
+  "title": "Crime and Punishment",
+  "year": 1866,
+  "price": 606.1,
+  "rating": 3.25,
+  "reviewCount": 1701,
+  "stock": 202,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451531353",
+  "views": 82138
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e8"
+  },
+  "author": "Fyodor Dostoevsky",
+  "country": "Russia",
+  "imageLink": "images/the-idiot.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+  "pages": 656,
+  "title": "The Idiot",
+  "year": 1869,
+  "price": 721.6,
+  "rating": 3.71,
+  "reviewCount": 328,
+  "stock": 224,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780307743654",
+  "images": [
+    "https://img1.od-cdn.com/ImageType-400/2281-1/2AB/EBB/AB/%7B2ABEBBAB-603A-4B08-90AB-9E4BB84D366F%7DImg400.jpg"
+  ],
+  "views": 79149
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71e9"
+  },
+  "author": "Fyodor Dostoevsky",
+  "country": "Russia",
+  "imageLink": "images/the-possessed.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+  "pages": 768,
+  "title": "The Possessed",
+  "year": 1872,
+  "price": 844.8,
+  "rating": 3.3,
+  "reviewCount": 734,
+  "stock": 190,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780307743678",
+  "views": 58871
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71ea"
+  },
+  "author": "Fyodor Dostoevsky",
+  "country": "Russia",
+  "imageLink": "images/the-brothers-karamazov.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+  "pages": 824,
+  "title": "The Brothers Karamazov",
+  "year": 1880,
+  "price": 906.4,
+  "rating": 4.62,
+  "reviewCount": 989,
+  "stock": 84,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780307743661",
+  "views": 53141
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71eb"
+  },
+  "author": "George Eliot",
+  "country": "United Kingdom",
+  "imageLink": "images/middlemarch.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
+  "pages": 800,
+  "title": "Middlemarch",
+  "year": 1871,
+  "price": 880,
+  "rating": 3.89,
+  "reviewCount": 1304,
+  "stock": 253,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451527127",
+  "views": 54370
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71ec"
+  },
+  "author": "Ralph Ellison",
+  "country": "United States",
+  "imageLink": "images/invisible-man.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+  "pages": 581,
+  "title": "Invisible Man",
+  "year": 1952,
+  "price": 639.1,
+  "rating": 4.51,
+  "reviewCount": 1749,
+  "stock": 226,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780307743654",
+  "views": 18569
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71ed"
+  },
+  "author": "Euripides",
+  "country": "Greece",
+  "imageLink": "images/medea.jpg",
+  "language": "Greek",
+  "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+  "pages": 104,
+  "title": "Medea",
+  "year": -431,
+  "price": 25,
+  "rating": 4.95,
+  "reviewCount": 1028,
+  "stock": 1,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780679405789",
+  "images": [
+    "https://www.degruyter.com/document/cover/isbn/9780691215082/product_pages",
+    "https://m.media-amazon.com/images/I/61B7Hh6lnLL._SL500_.jpg"
+  ],
+  "views": 908,
+  "updatedAt": {
+    "$date": "2023-10-11T08:05:21.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71ee"
+  },
+  "author": "William Faulkner",
+  "country": "United States",
+  "imageLink": "images/absalom-absalom.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
+  "pages": 313,
+  "title": "Absalom, Absalom!",
+  "year": 1936,
+  "price": 344.3,
+  "rating": 3.8,
+  "reviewCount": 1711,
+  "stock": 187,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780307743661",
+  "views": 91958
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71ef"
+  },
+  "author": "William Faulkner",
+  "country": "United States",
+  "imageLink": "images/the-sound-and-the-fury.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
+  "pages": 326,
+  "title": "The Sound and the Fury",
+  "year": 1929,
+  "price": 358.6,
+  "rating": 3.78,
+  "reviewCount": 608,
+  "stock": 270,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780679410325",
+  "views": 79458
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f0"
+  },
+  "author": "Gustave Flaubert",
+  "country": "France",
+  "imageLink": "images/madame-bovary.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
+  "pages": 528,
+  "title": "Madame Bovary",
+  "year": 1857,
+  "price": 580.8,
+  "rating": 3.89,
+  "reviewCount": 346,
+  "stock": 195,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526953",
+  "views": 97657
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f1"
+  },
+  "author": "Gustave Flaubert",
+  "country": "France",
+  "imageLink": "images/l-education-sentimentale.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
+  "pages": 606,
+  "title": "Sentimental Education",
+  "year": 1869,
+  "price": 666.6,
+  "rating": 4.6,
+  "reviewCount": 1796,
+  "stock": 97,
+  "category": [
+    "Poetry"
+  ],
+  "isbn": "9780451526939",
+  "views": 18846
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f2"
+  },
+  "author": "Federico García Lorca",
+  "country": "Spain",
+  "imageLink": "images/gypsy-ballads.jpg",
+  "language": "Spanish",
+  "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
+  "pages": 218,
+  "title": "Gypsy Ballads",
+  "year": 1928,
+  "price": 239.8,
+  "rating": 3.61,
+  "reviewCount": 1135,
+  "stock": 90,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526922",
+  "images": [
+    "https://m.media-amazon.com/images/I/41crc1V-zKL._AC_UF1000,1000_QL80_.jpg",
+    "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/gypsy-ballads-by-federico-garcia-lorca-greatest-books-ever-art-print-series-392-design-turnpike.jpg"
+  ],
+  "views": 3860
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f3"
+  },
+  "author": "Gabriel García Márquez",
+  "country": "Colombia",
+  "imageLink": "images/one-hundred-years-of-solitude.jpg",
+  "language": "Spanish",
+  "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
+  "pages": 417,
+  "title": "One Hundred Years of Solitude",
+  "year": 1967,
+  "price": 458.7,
+  "rating": 4.01,
+  "reviewCount": 680,
+  "stock": 129,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451518842",
+  "views": 10078
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f4"
+  },
+  "author": "Gabriel García Márquez",
+  "country": "Colombia",
+  "imageLink": "images/love-in-the-time-of-cholera.jpg",
+  "language": "Spanish",
+  "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
+  "pages": 368,
+  "title": "Love in the Time of Cholera",
+  "year": 1985,
+  "price": 404.8,
+  "rating": 4.38,
+  "reviewCount": 807,
+  "stock": 88,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526953",
+  "views": 55331
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f5"
+  },
+  "author": "Johann Wolfgang von Goethe",
+  "country": "Saxe-Weimar",
+  "imageLink": "images/faust.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
+  "pages": 158,
+  "title": "Faust",
+  "year": 1832,
+  "price": 173.8,
+  "rating": 3.12,
+  "reviewCount": 1331,
+  "stock": 134,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451511607",
+  "images": [
+    "https://m.media-amazon.com/images/I/811hLbGx+5L._AC_UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/918PSjp+FIL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 97872
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f6"
+  },
+  "author": "Nikolai Gogol",
+  "country": "Russia",
+  "imageLink": "images/dead-souls.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
+  "pages": 432,
+  "title": "Dead Souls",
+  "year": 1842,
+  "price": 475.2,
+  "rating": 2.69,
+  "reviewCount": 177,
+  "stock": 209,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451517913",
+  "views": 19164
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f7"
+  },
+  "author": "Günter Grass",
+  "country": "Germany",
+  "imageLink": "images/the-tin-drum.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
+  "pages": 600,
+  "title": "The Tin Drum",
+  "year": 1959,
+  "price": 660,
+  "rating": 2.62,
+  "reviewCount": 1994,
+  "stock": 233,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 11994
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f8"
+  },
+  "author": "João Guimarães Rosa",
+  "country": "Brazil",
+  "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
+  "language": "Portuguese",
+  "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
+  "pages": 494,
+  "title": "The Devil to Pay in the Backlands",
+  "year": 1956,
+  "price": 543.4,
+  "rating": 3.56,
+  "reviewCount": 1493,
+  "stock": 245,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451527240",
+  "views": 93052
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71f9"
+  },
+  "author": "Knut Hamsun",
+  "country": "Norway",
+  "imageLink": "images/hunger.jpg",
+  "language": "Norwegian",
+  "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
+  "pages": 176,
+  "title": "Hunger",
+  "year": 1890,
+  "price": 193.6,
+  "rating": 4.55,
+  "reviewCount": 95,
+  "stock": 18,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780143039969",
+  "views": 17083
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71fa"
+  },
+  "author": "Ernest Hemingway",
+  "country": "United States",
+  "imageLink": "images/the-old-man-and-the-sea.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
+  "pages": 128,
+  "title": "The Old Man and the Sea",
+  "year": 1952,
+  "price": 140.8,
+  "rating": 3.16,
+  "reviewCount": 1078,
+  "stock": 218,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780147712554",
+  "images": [
+    "https://m.media-amazon.com/images/I/71Au8SjrwkL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51-kRs9XGvL.jpg"
+  ],
+  "views": 93294
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71fb"
+  },
+  "author": "Homer",
+  "country": "Greece",
+  "imageLink": "images/the-iliad-of-homer.jpg",
+  "language": "Greek",
+  "link": "https://en.wikipedia.org/wiki/Iliad\n",
+  "pages": 608,
+  "title": "Iliad",
+  "year": -735,
+  "price": 1520,
+  "rating": 2.51,
+  "reviewCount": 620,
+  "stock": 231,
+  "category": [
+    "Epic Poetry"
+  ],
+  "isbn": "9780199536368",
+  "views": 43200
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71fc"
+  },
+  "author": "Homer",
+  "country": "Greece",
+  "imageLink": "images/the-odyssey-of-homer.jpg",
+  "language": "Greek",
+  "link": "https://en.wikipedia.org/wiki/Odyssey\n",
+  "pages": 374,
+  "title": "Odyssey",
+  "year": -800,
+  "price": 935,
+  "rating": 2.63,
+  "reviewCount": 393,
+  "stock": 247,
+  "category": [
+    "Epic Poetry"
+  ],
+  "isbn": "9780143039471",
+  "views": 4077
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71fd"
+  },
+  "author": "Henrik Ibsen",
+  "country": "Norway",
+  "imageLink": "images/a-Dolls-house.jpg",
+  "language": "Norwegian",
+  "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
+  "pages": 68,
+  "title": "A Doll's House",
+  "year": 1879,
+  "price": 74.8,
+  "rating": 3.35,
+  "reviewCount": 230,
+  "stock": 9,
+  "category": [
+    "Drama"
+  ],
+  "isbn": "9780147712554",
+  "images": [
+    "https://m.media-amazon.com/images/I/61lrZ7w-zsL._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/41wZZr+-DNL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 70289
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71fe"
+  },
+  "author": "James Joyce",
+  "country": "Irish Free State",
+  "imageLink": "images/ulysses.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
+  "pages": 228,
+  "title": "Ulysses",
+  "year": 1922,
+  "price": 250.8,
+  "rating": 3.95,
+  "reviewCount": 62,
+  "stock": 195,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780147712554",
+  "views": 14682
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b71ff"
+  },
+  "author": "Franz Kafka",
+  "country": "Czechoslovakia",
+  "imageLink": "images/stories-of-franz-kafka.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
+  "pages": 488,
+  "title": "Stories",
+  "year": 1924,
+  "price": 536.8,
+  "rating": 3.93,
+  "reviewCount": 1091,
+  "stock": 18,
+  "category": [
+    "Short Stories"
+  ],
+  "isbn": "9780199536368",
+  "views": 55911
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7200"
+  },
+  "author": "Franz Kafka",
+  "country": "Czechoslovakia",
+  "imageLink": "images/the-trial.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/The_Trial\n",
+  "pages": 160,
+  "title": "The Trial",
+  "year": 1925,
+  "price": 176,
+  "rating": 3.41,
+  "reviewCount": 770,
+  "stock": 226,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780199536368",
+  "images": [
+    "https://m.media-amazon.com/images/I/71X73uwgd1L._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/81JsMC2AKHL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 86704
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7201"
+  },
+  "author": "Franz Kafka",
+  "country": "Czechoslovakia",
+  "imageLink": "images/the-castle.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
+  "pages": 352,
+  "title": "The Castle",
+  "year": 1926,
+  "price": 387.2,
+  "rating": 4.68,
+  "reviewCount": 333,
+  "stock": 227,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780141439617",
+  "views": 89028
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7202"
+  },
+  "author": "Kālidāsa",
+  "country": "India",
+  "imageLink": "images/the-recognition-of-shakuntala.jpg",
+  "language": "Sanskrit",
+  "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
+  "pages": 147,
+  "title": "The recognition of Shakuntala",
+  "year": 150,
+  "price": 352.8,
+  "rating": 2.85,
+  "reviewCount": 1848,
+  "stock": 210,
+  "category": [
+    "Ancient Indian Literature"
+  ],
+  "isbn": "9780451531353",
+  "images": [
+    "https://m.media-amazon.com/images/I/71lacp4kWKS._AC_UF1000,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/51+c5FGPTnL.jpg"
+  ],
+  "views": 3737
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7203"
+  },
+  "author": "Yasunari Kawabata",
+  "country": "Japan",
+  "imageLink": "images/the-sound-of-the-mountain.jpg",
+  "language": "Japanese",
+  "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
+  "pages": 288,
+  "title": "The Sound of the Mountain",
+  "year": 1954,
+  "price": 316.8,
+  "rating": 3.37,
+  "reviewCount": 819,
+  "stock": 38,
+  "category": [
+    "Japanese Literature"
+  ],
+  "isbn": "9780147712554",
+  "images": [
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652456149i/59950.jpg",
+    "https://m.media-amazon.com/images/I/71pYN9HLB-L._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 2124
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7204"
+  },
+  "author": "Nikos Kazantzakis",
+  "country": "Greece",
+  "imageLink": "images/zorba-the-greek.jpg",
+  "language": "Greek",
+  "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
+  "pages": 368,
+  "title": "Zorba the Greek",
+  "year": 1946,
+  "price": 404.8,
+  "rating": 4.21,
+  "reviewCount": 455,
+  "stock": 291,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780199536368",
+  "views": 8878
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7205"
+  },
+  "author": "D. H. Lawrence",
+  "country": "United Kingdom",
+  "imageLink": "images/sons-and-lovers.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
+  "pages": 432,
+  "title": "Sons and Lovers",
+  "year": 1913,
+  "price": 475.2,
+  "rating": 4.77,
+  "reviewCount": 543,
+  "stock": 89,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780451526342",
+  "images": [
+    "https://m.media-amazon.com/images/I/51fplnARsdL._AC_UF1000,1000_QL80_.jpg",
+    "https://literaryocean.com/wp-content/uploads/2021/01/sons-and-lovers.jpg"
+  ],
+  "views": 14413
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7206"
+  },
+  "author": "Halldór Laxness",
+  "country": "Iceland",
+  "imageLink": "images/independent-people.jpg",
+  "language": "Icelandic",
+  "link": "https://en.wikipedia.org/wiki/Independent_People\n",
+  "pages": 470,
+  "title": "Independent People",
+  "year": 1934,
+  "price": 517,
+  "rating": 2.62,
+  "reviewCount": 1469,
+  "stock": 163,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451526342",
+  "views": 28234
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7207"
+  },
+  "author": "Giacomo Leopardi",
+  "country": "Italy",
+  "imageLink": "images/poems-giacomo-leopardi.jpg",
+  "language": "Italian",
+  "link": "\n",
+  "pages": 184,
+  "title": "Poems",
+  "year": 1818,
+  "price": 202.4,
+  "rating": 3.03,
+  "reviewCount": 773,
+  "stock": 58,
+  "category": [
+    "Poetry"
+  ],
+  "isbn": "9780143039471",
+  "views": 37425
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7208"
+  },
+  "author": "Doris Lessing",
+  "country": "United Kingdom",
+  "imageLink": "images/the-golden-notebook.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
+  "pages": 688,
+  "title": "The Golden Notebook",
+  "year": 1962,
+  "price": 756.8,
+  "rating": 3.4,
+  "reviewCount": 1064,
+  "stock": 224,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780143039471",
+  "views": 53903
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7209"
+  },
+  "author": "Astrid Lindgren",
+  "country": "Sweden",
+  "imageLink": "images/pippi-longstocking.jpg",
+  "language": "Swedish",
+  "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
+  "pages": 160,
+  "title": "Pippi Longstocking",
+  "year": 1945,
+  "price": 176,
+  "rating": 3.14,
+  "reviewCount": 563,
+  "stock": 182,
+  "category": [
+    "Children's Literature"
+  ],
+  "isbn": "9780143039471",
+  "images": [
+    "https://images-eu.ssl-images-amazon.com/images/I/81wJJ+XC5oL._AC_UL600_SR600,600_.jpg",
+    "https://m.media-amazon.com/images/I/71pYN9HLB-L._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 21435
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b720a"
+  },
+  "author": "Lu Xun",
+  "country": "China",
+  "imageLink": "images/diary-of-a-madman.jpg",
+  "language": "Chinese",
+  "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
+  "pages": 389,
+  "title": "Diary of a Madman",
+  "year": 1918,
+  "price": 427.9,
+  "rating": 4.2,
+  "reviewCount": 1720,
+  "stock": 116,
+  "category": [
+    "Classical Chinese Literature"
+  ],
+  "isbn": "9780143039471",
+  "views": 61587
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b720b"
+  },
+  "author": "Naguib Mahfouz",
+  "country": "Egypt",
+  "imageLink": "images/children-of-gebelawi.jpg",
+  "language": "Arabic",
+  "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
+  "pages": 355,
+  "title": "Children of Gebelawi",
+  "year": 1959,
+  "price": 390.5,
+  "rating": 3.72,
+  "reviewCount": 1368,
+  "stock": 222,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780143039969",
+  "views": 7221
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b720c"
+  },
+  "author": "Thomas Mann",
+  "country": "Germany",
+  "imageLink": "images/buddenbrooks.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n",
+  "pages": 736,
+  "title": "Buddenbrooks",
+  "year": 1901,
+  "price": 809.6,
+  "rating": 2.56,
+  "reviewCount": 1901,
+  "stock": 251,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451511607",
+  "views": 74437
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b720d"
+  },
+  "author": "Thomas Mann",
+  "country": "Germany",
+  "imageLink": "images/the-magic-mountain.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
+  "pages": 720,
+  "title": "The Magic Mountain",
+  "year": 1924,
+  "price": 792,
+  "rating": 3.61,
+  "reviewCount": 372,
+  "stock": 187,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451511607",
+  "images": [
+    "https://m.media-amazon.com/images/I/71b3Yc+LWxL._AC_UF894,1000_QL80_.jpg",
+    "https://cdn.kobo.com/book-images/a7982b03-109e-4400-b82f-6b3a3b8a5e86/353/569/90/False/the-magic-mountain-7.jpg"
+  ],
+  "views": 362
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b720e"
+  },
+  "author": "Herman Melville",
+  "country": "United States",
+  "imageLink": "images/moby-dick.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Moby-Dick\n",
+  "pages": 378,
+  "title": "Moby Dick",
+  "year": 1851,
+  "price": 415.8,
+  "rating": 4.63,
+  "reviewCount": 484,
+  "stock": 172,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451511607",
+  "views": 7153
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b720f"
+  },
+  "author": "Michel de Montaigne",
+  "country": "France",
+  "imageLink": "images/essais.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n",
+  "pages": 404,
+  "title": "Essays",
+  "year": 1595,
+  "price": 545.4,
+  "rating": 4.24,
+  "reviewCount": 1988,
+  "stock": 162,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780451526953",
+  "views": 85210
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7210"
+  },
+  "author": "Elsa Morante",
+  "country": "Italy",
+  "imageLink": "images/history.jpg",
+  "language": "Italian",
+  "link": "https://en.wikipedia.org/wiki/History_(novel)\n",
+  "pages": 600,
+  "title": "History",
+  "year": 1974,
+  "price": 660,
+  "rating": 4.1,
+  "reviewCount": 113,
+  "stock": 78,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451527127",
+  "views": 4748
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7211"
+  },
+  "author": "Toni Morrison",
+  "country": "United States",
+  "imageLink": "images/beloved.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
+  "pages": 321,
+  "title": "Beloved",
+  "year": 1987,
+  "price": 353.1,
+  "rating": 4.72,
+  "reviewCount": 577,
+  "stock": 177,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451527127",
+  "images": [
+    "https://m.media-amazon.com/images/I/71gcUQfRi+L._AC_UF894,1000_QL80_.jpg",
+    "https://static01.nyt.com/images/2021/10/27/books/beloved-burst/beloved-burst-mediumSquareAt3X.jpg"
+  ],
+  "views": 77330
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7212"
+  },
+  "author": "Murasaki Shikibu",
+  "country": "Japan",
+  "imageLink": "images/the-tale-of-genji.jpg",
+  "language": "Japanese",
+  "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
+  "pages": 1360,
+  "title": "The Tale of Genji",
+  "year": 1006,
+  "price": 2448,
+  "rating": 3.82,
+  "reviewCount": 1401,
+  "stock": 200,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451527127",
+  "views": 26315
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7213"
+  },
+  "author": "Robert Musil",
+  "country": "Austria",
+  "imageLink": "images/the-man-without-qualities.jpg",
+  "language": "German",
+  "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
+  "pages": 365,
+  "title": "The Man Without Qualities",
+  "year": 1931,
+  "price": 401.5,
+  "rating": 2.67,
+  "reviewCount": 1714,
+  "stock": 137,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451518842",
+  "views": 60799
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7214"
+  },
+  "author": "Vladimir Nabokov",
+  "country": "Russia/United States",
+  "imageLink": "images/lolita.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Lolita\n",
+  "pages": 317,
+  "title": "Lolita",
+  "year": 1955,
+  "price": 348.7,
+  "rating": 3.88,
+  "reviewCount": 75,
+  "stock": 76,
+  "category": [
+    "Classic Literature"
+  ],
+  "isbn": "9780451518842",
+  "views": 60049
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7215"
+  },
+  "author": "George Orwell",
+  "country": "United Kingdom",
+  "imageLink": "images/nineteen-eighty-four.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
+  "pages": 272,
+  "title": "Nineteen Eighty-Four",
+  "year": 1949,
+  "price": 299.2,
+  "rating": 3.22,
+  "reviewCount": 705,
+  "stock": 31,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 27507
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7216"
+  },
+  "author": "Ovid",
+  "country": "Roman Empire",
+  "imageLink": "images/the-metamorphoses-of-ovid.jpg",
+  "language": "Classical Latin",
+  "link": "https://en.wikipedia.org/wiki/Metamorphoses\n",
+  "pages": 576,
+  "title": "Metamorphoses",
+  "year": 100,
+  "price": 1382.4,
+  "rating": 2.74,
+  "reviewCount": 962,
+  "stock": 147,
+  "category": [
+    "Gothic Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 70423
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7217"
+  },
+  "author": "Fernando Pessoa",
+  "country": "Portugal",
+  "imageLink": "images/the-book-of-disquiet.jpg",
+  "language": "Portuguese",
+  "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
+  "pages": 272,
+  "title": "The Book of Disquiet",
+  "year": 1928,
+  "price": 299.2,
+  "rating": 4.72,
+  "reviewCount": 1064,
+  "stock": 213,
+  "category": [
+    "Modernist Literature"
+  ],
+  "isbn": "9780451527127",
+  "images": [
+    "https://cdn.kobo.com/book-images/1daed705-df93-4be4-80e0-f9d2385d93f3/1200/1200/False/the-book-of-disquiet-1.jpg",
+    "https://m.media-amazon.com/images/I/6169nL2tfHL.jpg"
+  ],
+  "views": 87032
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7218"
+  },
+  "author": "Edgar Allan Poe",
+  "country": "United States",
+  "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
+  "pages": 842,
+  "title": "Tales",
+  "year": 1950,
+  "price": 926.2,
+  "rating": 4.19,
+  "reviewCount": 1500,
+  "stock": 11,
+  "category": [
+    "Renaissance Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 68312
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7219"
+  },
+  "author": "Marcel Proust",
+  "country": "France",
+  "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
+  "pages": 2408,
+  "title": "In Search of Lost Time",
+  "year": 1920,
+  "price": 2648.8,
+  "rating": 2.61,
+  "reviewCount": 1110,
+  "stock": 125,
+  "category": [
+    "Latin American Literature"
+  ],
+  "isbn": "9780451527127",
+  "views": 33591
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b721a"
+  },
+  "author": "François Rabelais",
+  "country": "France",
+  "imageLink": "images/gargantua-and-pantagruel.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n",
+  "pages": 623,
+  "title": "Gargantua and Pantagruel",
+  "year": 1533,
+  "price": 841.05,
+  "rating": 4.13,
+  "reviewCount": 329,
+  "stock": 114,
+  "category": [
+    "Classical Persian Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 44432
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b721b"
+  },
+  "author": "Juan Rulfo",
+  "country": "Mexico",
+  "imageLink": "images/pedro-paramo.jpg",
+  "language": "Spanish",
+  "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
+  "pages": 124,
+  "title": "Pedro Páramo",
+  "year": 1955,
+  "price": 136.4,
+  "rating": 3.32,
+  "reviewCount": 1920,
+  "stock": 143,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://m.media-amazon.com/images/I/61+6Swaa6yL._AC_UF1000,1000_QL80_.jpg",
+    "https://wordery.com/jackets/d9bfabac/pedro-pramo-spanish-edition-juan-rulfo-9780525566526.jpg"
+  ],
+  "views": 20335
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b721c"
+  },
+  "author": "Rumi",
+  "country": "Sultanate of Rum",
+  "imageLink": "images/the-masnavi.jpg",
+  "language": "Persian",
+  "link": "https://en.wikipedia.org/wiki/Masnavi\n",
+  "pages": 438,
+  "title": "The Masnavi",
+  "year": 1236,
+  "price": 635.1,
+  "rating": 4.96,
+  "reviewCount": 94,
+  "stock": 50,
+  "category": [
+    "Classical Persian Literature"
+  ],
+  "isbn": "9780451527127",
+  "images": [
+    "https://m.media-amazon.com/images/I/51mNvazEoHL.jpg",
+    "https://m.media-amazon.com/images/I/A1RlYk-ubJL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 12411
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b721d"
+  },
+  "author": "Salman Rushdie",
+  "country": "United Kingdom, India",
+  "imageLink": "images/midnights-children.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
+  "pages": 536,
+  "title": "Midnight's Children",
+  "year": 1981,
+  "price": 589.6,
+  "rating": 4.6,
+  "reviewCount": 943,
+  "stock": 276,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 47095
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b721e"
+  },
+  "author": "Saadi",
+  "country": "Persia, Persian Empire",
+  "imageLink": "images/bostan.jpg",
+  "language": "Persian",
+  "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n",
+  "pages": 298,
+  "title": "Bostan",
+  "year": 1257,
+  "price": 432.1,
+  "rating": 3.62,
+  "reviewCount": 717,
+  "stock": 159,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451527127",
+  "views": 72405
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b721f"
+  },
+  "author": "Tayeb Salih",
+  "country": "Sudan",
+  "imageLink": "images/season-of-migration-to-the-north.jpg",
+  "language": "Arabic",
+  "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
+  "pages": 139,
+  "title": "Season of Migration to the North",
+  "year": 1966,
+  "price": 152.9,
+  "rating": 4.57,
+  "reviewCount": 365,
+  "stock": 272,
+  "category": [
+    "Renaissance Drama"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://m.media-amazon.com/images/I/91EkPBjjIFL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 67766
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7220"
+  },
+  "author": "José Saramago",
+  "country": "Portugal",
+  "imageLink": "images/blindness.jpg",
+  "language": "Portuguese",
+  "link": "https://en.wikipedia.org/wiki/Blindness_(novel)\n",
+  "pages": 352,
+  "title": "Blindness",
+  "year": 1995,
+  "price": 387.2,
+  "rating": 3.04,
+  "reviewCount": 71,
+  "stock": 283,
+  "category": [
+    "Renaissance Drama"
+  ],
+  "isbn": "9780451526588",
+  "views": 48885
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7221"
+  },
+  "author": "William Shakespeare",
+  "country": "England",
+  "imageLink": "images/hamlet.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Hamlet\n",
+  "pages": 432,
+  "title": "Hamlet",
+  "year": 1603,
+  "price": 540,
+  "rating": 3.29,
+  "reviewCount": 946,
+  "stock": 198,
+  "category": [
+    "Renaissance Drama"
+  ],
+  "isbn": "9780451526588",
+  "views": 7000
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7222"
+  },
+  "author": "William Shakespeare",
+  "country": "England",
+  "imageLink": "images/king-lear.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/King_Lear\n",
+  "pages": 384,
+  "title": "King Lear",
+  "year": 1608,
+  "price": 480,
+  "rating": 4.38,
+  "reviewCount": 850,
+  "stock": 291,
+  "category": [
+    "Classical Greek Literature"
+  ],
+  "isbn": "9780451517913",
+  "views": 13098
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7223"
+  },
+  "author": "William Shakespeare",
+  "country": "England",
+  "imageLink": "images/othello.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Othello\n",
+  "pages": 314,
+  "title": "Othello",
+  "year": 1609,
+  "price": 392.5,
+  "rating": 4.05,
+  "reviewCount": 733,
+  "stock": 46,
+  "category": [
+    "Romantic Literature"
+  ],
+  "isbn": "9780451517913",
+  "views": 59296
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7224"
+  },
+  "author": "Sophocles",
+  "country": "Greece",
+  "imageLink": "images/oedipus-the-king.jpg",
+  "language": "Greek",
+  "link": "https://en.wikipedia.org/wiki/Oedipus_the_King\n",
+  "pages": 88,
+  "title": "Oedipus the King",
+  "year": -430,
+  "price": 215.6,
+  "rating": 4.16,
+  "reviewCount": 159,
+  "stock": 257,
+  "category": [
+    "18th Century Literature"
+  ],
+  "isbn": "9780451517913",
+  "views": 68799
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7225"
+  },
+  "author": "Stendhal",
+  "country": "France",
+  "imageLink": "images/le-rouge-et-le-noir.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
+  "pages": 576,
+  "title": "The Red and the Black",
+  "year": 1830,
+  "price": 633.6,
+  "rating": 3.49,
+  "reviewCount": 1999,
+  "stock": 136,
+  "category": [
+    "Contemporary Literature"
+  ],
+  "isbn": "9780451517913",
+  "views": 72322
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7226"
+  },
+  "author": "Laurence Sterne",
+  "country": "England",
+  "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
+  "pages": 640,
+  "title": "The Life And Opinions of Tristram Shandy",
+  "year": 1760,
+  "price": 800,
+  "rating": 2.69,
+  "reviewCount": 722,
+  "stock": 63,
+  "category": [
+    "Satire"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://www.selfmadehero.com/attachments/3e86062001b08bf1980cc762ab323df21ccad2af/store/aa82a2f5ee75358bda6faf980899d774b6afcd97922c85c3324c56f3e278/cover_image.jpg",
+    "https://pictures.abebooks.com/isbn/9788420432861-us.jpg"
+  ],
+  "views": 3472
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7227"
+  },
+  "author": "Italo Svevo",
+  "country": "Italy",
+  "imageLink": "images/confessions-of-zeno.jpg",
+  "language": "Italian",
+  "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
+  "pages": 412,
+  "title": "Confessions of Zeno",
+  "year": 1923,
+  "price": 453.2,
+  "rating": 3.37,
+  "reviewCount": 1475,
+  "stock": 252,
+  "category": [
+    "Russian Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 80421
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7228"
+  },
+  "author": "Jonathan Swift",
+  "country": "Ireland",
+  "imageLink": "images/gullivers-travels.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n",
+  "pages": 178,
+  "title": "Gulliver's Travels",
+  "year": 1726,
+  "price": 222.5,
+  "rating": 4,
+  "reviewCount": 378,
+  "stock": 244,
+  "category": [
+    "Russian Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 91250
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7229"
+  },
+  "author": "Leo Tolstoy",
+  "country": "Russia",
+  "imageLink": "images/war-and-peace.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/War_and_Peace\n",
+  "pages": 1296,
+  "title": "War and Peace",
+  "year": 1867,
+  "price": 1425.6,
+  "rating": 2.88,
+  "reviewCount": 1880,
+  "stock": 233,
+  "category": [
+    "Russian Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 85799
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b722a"
+  },
+  "author": "Leo Tolstoy",
+  "country": "Russia",
+  "imageLink": "images/anna-karenina.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n",
+  "pages": 864,
+  "title": "Anna Karenina",
+  "year": 1877,
+  "price": 950.4,
+  "rating": 3.23,
+  "reviewCount": 1946,
+  "stock": 223,
+  "category": [
+    "American Literature"
+  ],
+  "isbn": "9780451526588",
+  "views": 17559
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b722b"
+  },
+  "author": "Leo Tolstoy",
+  "country": "Russia",
+  "imageLink": "images/the-death-of-ivan-ilyich.jpg",
+  "language": "Russian",
+  "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
+  "pages": 92,
+  "title": "The Death of Ivan Ilyich",
+  "year": 1886,
+  "price": 101.2,
+  "rating": 4.65,
+  "reviewCount": 1423,
+  "stock": 263,
+  "category": [
+    "Indian Literature"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://m.media-amazon.com/images/I/71E4TIko5HL._AC_UF1000,1000_QL80_.jpg",
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663546974i/18386.jpg"
+  ],
+  "views": 40035
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b722c"
+  },
+  "author": "Mark Twain",
+  "country": "United States",
+  "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
+  "pages": 224,
+  "title": "The Adventures of Huckleberry Finn",
+  "year": 1884,
+  "price": 246.4,
+  "rating": 2.76,
+  "reviewCount": 1794,
+  "stock": 122,
+  "category": [
+    "Epic Poetry"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://s3.amazonaws.com/adg-bucket/the-adventures-of-huckleberry-finn-mark-twain/3422-medium.jpg",
+    "https://npr.brightspotcdn.com/dims4/default/7cfcbd2/2147483647/strip/true/crop/383x500+0+0/resize/880x1149!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwkar%2Ffiles%2F201409%2F51BJQP3cqxL.jpg"
+  ],
+  "views": 2705
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b722d"
+  },
+  "author": "Valmiki",
+  "country": "India",
+  "imageLink": "images/ramayana.jpg",
+  "language": "Sanskrit",
+  "link": "https://en.wikipedia.org/wiki/Ramayana\n",
+  "pages": 152,
+  "title": "Ramayana",
+  "year": -450,
+  "price": 372.4,
+  "rating": 4.51,
+  "reviewCount": 88,
+  "stock": 26,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526588",
+  "views": 73145
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b722e"
+  },
+  "author": "Virgil",
+  "country": "Roman Empire",
+  "imageLink": "images/the-aeneid.jpg",
+  "language": "Classical Latin",
+  "link": "https://en.wikipedia.org/wiki/Aeneid\n",
+  "pages": 442,
+  "title": "The Aeneid",
+  "year": -23,
+  "price": 1060.8,
+  "rating": 4.94,
+  "reviewCount": 1046,
+  "stock": 259,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://www.booksoftitans.com/wp-content/uploads/2019/11/the-aeneid.jpg",
+    "https://www.booksoftitans.com/wp-content/uploads/2019/11/the-aeneid.jpg"
+  ],
+  "views": 25001
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b722f"
+  },
+  "author": "Vyasa",
+  "country": "India",
+  "imageLink": "images/the-mahab-harata.jpg",
+  "language": "Sanskrit",
+  "link": "https://en.wikipedia.org/wiki/Mahabharata\n",
+  "pages": 276,
+  "title": "Mahabharata",
+  "year": -700,
+  "price": 690,
+  "rating": 2.59,
+  "reviewCount": 1730,
+  "stock": 111,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526588",
+  "views": 69983
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7230"
+  },
+  "author": "Walt Whitman",
+  "country": "United States",
+  "imageLink": "images/leaves-of-grass.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
+  "pages": 152,
+  "title": "Leaves of Grass",
+  "year": 1855,
+  "price": 167.2,
+  "rating": 3.82,
+  "reviewCount": 1212,
+  "stock": 78,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526588",
+  "images": [
+    "https://m.media-amazon.com/images/I/61qZgdb08pL._AC_UF894,1000_QL80_.jpg",
+    "https://m.media-amazon.com/images/I/71ZUAQQ-9IL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "views": 429
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7231"
+  },
+  "author": "Virginia Woolf",
+  "country": "United Kingdom",
+  "imageLink": "images/mrs-dalloway.jpg",
+  "language": "English",
+  "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
+  "pages": 216,
+  "title": "Mrs Dalloway",
+  "year": 1925,
+  "price": 237.6,
+  "rating": 3.74,
+  "reviewCount": 1220,
+  "stock": 52,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526588",
+  "views": 60106
+},
+{
+  "_id": {
+    "$oid": "65026ad49ab16606d22b7233"
+  },
+  "author": "Marguerite Yourcenar",
+  "country": "France/Belgium",
+  "imageLink": "images/memoirs-of-hadrian.jpg",
+  "language": "French",
+  "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
+  "pages": 408,
+  "title": "Memoirs of Hadrian",
+  "year": 1951,
+  "price": 448.8,
+  "rating": 4.05,
+  "reviewCount": 1655,
+  "stock": 197,
+  "category": [
+    "Fiction"
+  ],
+  "isbn": "9780451526588",
+  "views": 14232
+},
+{
+  "_id": {
+    "$oid": "6526654dc1deb35e7e036a03"
+  },
+  "author": "sdfsf",
+  "title": "sdfsdf",
+  "isbn": "3424234234233",
+  "language": "dsfsfsf",
+  "pages": 423,
+  "year": 2432,
+  "price": 234,
+  "category": [],
+  "stock": 23,
+  "reviews": [],
+  "discounts": [],
+  "images": [],
+  "createdAt": {
+    "$date": "2023-10-11T09:05:17.836Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T09:05:17.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65266ec9c1deb35e7e036b23"
+  },
+  "author": "tetet",
+  "title": "tetetaaaaaaaaaaaaaaaaaa",
+  "isbn": "4255345345345",
+  "language": "dsgdfgd",
+  "pages": 432,
+  "year": 4224,
+  "price": 3425,
+  "category": [],
+  "stock": 43,
+  "reviews": [],
+  "discounts": [],
+  "images": [],
+  "createdAt": {
+    "$date": "2023-10-11T09:45:45.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T17:51:33.055Z"
+  },
+  "__v": 0
+}]
