@@ -1,0 +1,7 @@
+docker run -d --name database_container -p 27017:27017 mongo:latest
+
+take the ip address an port number from here. 
+docker inspect database_container 
+
+to check if mongo is created
+docker exec -it database_container mongosh
