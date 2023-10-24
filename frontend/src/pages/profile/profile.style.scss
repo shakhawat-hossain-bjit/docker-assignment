@@ -1,0 +1,30 @@
+.user-information-container {
+  margin-top: 70px;
+  margin-bottom: 50px;
+  h1 {
+    text-align: center;
+  }
+  .user-information {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    // display: flex;
+    display: grid;
+  grid-template-columns: 4fr 12fr;
+    .img-container{
+      height: 100px;
+      width: 100px;
+      padding: 15px;
+      border: 1px solid gray;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+   
+  }
+}

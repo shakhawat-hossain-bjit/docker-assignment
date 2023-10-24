@@ -1,0 +1,68 @@
+.best-selling{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.best-selling-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    h2{
+        font-weight: lighter;
+        font-size: 30px;
+    }
+    p{
+        display: flex;
+        align-items: center;
+        font-size: 18px;
+        span{
+            margin-right: 7px;
+        }
+    }
+}
+
+.best-selling-books-cards{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    // display: flex;
+    transition: transform 2s ease-in-out;
+    position: relative;
+    overflow: hidden;
+    
+}
+.best-selling-books{
+    position: relative;
+}
+.best-selling-books-buttons{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    .prev-button{
+        padding: 12px;
+        border-radius: 50%;
+        border: none;
+        // background: none;
+        position: absolute;
+        left: -70px;
+        top: 50%;
+    }
+    .prev-button:hover{
+        transform: scale(1.2);
+        transition: transform .2s;
+    }
+    .next-button{
+        padding: 12px;
+        border-radius: 50%;
+        border: none;
+        // background: none;
+        position: absolute;
+        right: -70px;
+        top: 50%;
+    }
+    .next-button:hover{
+        transform: scale(1.2);
+        transition: transform .2s;
+    }
+}
+
+

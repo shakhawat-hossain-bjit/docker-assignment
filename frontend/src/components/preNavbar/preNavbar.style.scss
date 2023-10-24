@@ -1,0 +1,38 @@
+.pre-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    .icon-text{
+        display: flex;
+        align-items: center;
+        p{
+            // margin-left: 12px;
+            // margin-right: 20px ;
+            margin: 5px 30px 5px 12px;
+        }
+    }
+    .pre-nav-element:hover{
+        color: tomato;
+    }
+}
+
+.pre-nav-left{
+    display: flex;
+}
+
+.pre-nav-right{
+    display: flex;
+    div{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    div:hover .icon{
+        color: tomato;
+    }
+    .icon{
+        color: black;
+    }
+}
+

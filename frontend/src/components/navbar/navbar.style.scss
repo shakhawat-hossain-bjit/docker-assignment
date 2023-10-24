@@ -1,0 +1,148 @@
+nav {
+  // position: fixed;
+  // width: 100%;
+  // left: 0px;
+  // top: 0px;
+  // z-index: 5;
+  // border-top: 1px solid rgba(181, 180, 180, 0.733);
+  
+  // padding: 5px 0px;
+}
+
+.nav-container {
+  // display: flex;
+  // justify-content: space-between;
+  border-bottom: 1px solid rgba(181, 180, 180, 0.733);
+  ul{
+    // padding: 15px 0px;
+    
+  }
+  .nav-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    a {
+      text-decoration: none;
+    }
+  }
+  .nav-search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 20px;
+    input {
+      width: 400px;
+      border-radius: 5px;
+      padding: 13px 18px;
+    }
+  }
+
+  .navbar-optinos {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .navbar-optinos li:hover a {
+    color: tomato;
+  }
+
+  li a {
+    display: block;
+    color: rgb(9, 9, 9);
+    text-align: center;
+    padding: 30px 20px;
+    text-decoration: none;
+  }
+
+  li button {
+    margin-top: 10px;
+  }
+}
+
+nav {
+  ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.login-btn {
+  background-color: #0b5ed7;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+}
+
+.logout-btn {
+  background-color: tomato;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.navbar-cart {
+  position: relative;
+  p {
+    position: absolute;
+    z-index: 2;
+    padding: 2px 5px;
+    margin: 0px;
+    background-color: rgb(247, 117, 117);
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 50%;
+    right: 13px;
+    top: 15px;
+  }
+}
+
+.navbar-cart:hover p {
+  color: rgb(228, 224, 224);
+}
+
+.profile-drop-down{
+  position: absolute;
+  z-index: 4;
+  right:-20px ;
+  top:90px ;
+  width: 140px;
+  border:1px solid rgb(104, 104, 104);
+  background-color: white;
+  // border-radius: 5px;
+  text-align: center;
+  div{
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+    padding: 5px 0px;
+  }
+  div:last-child{
+    border: none;
+  }
+  .options{
+    div:hover a{
+      // background-color: rgb(233, 233, 233);
+      margin-left: 10px;
+      color: tomato;
+      transition:  margin-left .2s;
+    }
+    a {
+      color: rgb(9, 9, 9);
+      text-decoration: none;
+    }
+  }
+  
+  
+}

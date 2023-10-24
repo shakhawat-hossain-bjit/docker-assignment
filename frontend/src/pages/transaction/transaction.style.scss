@@ -1,0 +1,14 @@
+.transaction-container {
+  .transaction-title {
+    text-align: center;
+    padding: 30px 0px;
+  }
+  .transaction-item-container {
+    // display: flex;
+  }
+}
+
+.transaction-item-container .transaction-card-container:last-child {
+  border-bottom: none;
+  // background-color: red;
+}

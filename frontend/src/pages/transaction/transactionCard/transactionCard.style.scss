@@ -1,0 +1,39 @@
+.transaction-card-table-container {
+  display: flex;
+  justify-content: center;
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+
+  td,
+  th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    text-transform: capitalize;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+}
+
+.transaction-card-container {
+  padding: 30px 0px;
+  border-bottom: 1px solid gray;
+  .transaction-card-info {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .transaction-card-info:last-child {
+    p {
+      text-align: right;
+      background-color: red;
+    }
+  }
+}

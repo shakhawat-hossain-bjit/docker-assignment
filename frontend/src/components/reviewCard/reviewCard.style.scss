@@ -1,0 +1,52 @@
+.review-card-container {
+  padding: 10px 20px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-height: 500px;
+  position: relative;
+  .delete-button {
+    padding: 5px;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    border: none;
+  }
+  .delete-button:hover {
+    background-color: tomato;
+    border: 1px solid tomato;
+    color: white;
+  }
+  .review-header {
+    display: flex;
+    align-items: center;
+    .review-img-container {
+      border: 1px solid gray;
+      border-radius: 50%;
+      padding: 20px;
+    }
+    .name-container {
+      margin-left: 20px;
+      p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+    }
+  }
+  .review-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .rating-container {
+      //   padding-left: 30px;
+      margin-top: 20px;
+    }
+    .message-container {
+      margin-top: 30px;
+    }
+  }
+}

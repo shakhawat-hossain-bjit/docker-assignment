@@ -1,0 +1,42 @@
+.nav-sections-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    button{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
+
+.nav-sections-button{
+    font-size: 18px;
+    padding: 5px 0px;
+    border:none;
+    background: none;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+    
+.nav-sections-button::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #000;
+    transition: width .3s;
+}
+    
+.nav-sections-button:hover::after {
+    width: 100%;
+}
+
+.nav-sections-button-active:after{
+    background-color: red;
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #000;
+    transition: width .3s;
+    width: 100%;
+}

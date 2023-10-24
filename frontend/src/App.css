@@ -1,0 +1,26 @@
+body{
+  margin: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+hr {
+    border-top: 0.7px solid #8c8b8bb0;
+	  border-bottom: 0.5px solid #fff;
+  }
+
+.top-bottom-margin{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+  
+.half-height{
+  height: 50vh;
+}
+.three-four-height{
+  height: 75vh;
+}

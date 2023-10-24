@@ -1,0 +1,98 @@
+.footer-subscriber{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    h2{
+        font-size: 32px;
+    }
+    p{
+        color: gray;
+    }
+    .footer-subscriber-form-container{
+        width: 60%;
+        margin: auto;
+        form{
+            width: 100%;
+            display: flex;
+            align-items: center;
+            input[type = text]{
+                width: 65%;
+                padding: 20px 15px;
+                outline: none;
+                margin-bottom: 0px;
+            }
+            input[type = submit]{
+                margin-left: 10px;
+                padding: 17px 0px;
+                width: 30%;
+                background-color: #161619;
+                color: white;
+                font-size: 20px;
+                outline: 0px;
+                border: 0px;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    .intro{
+        width: 35%;
+        div{
+           span{
+                margin-bottom: 15px;
+                display: inline-block;
+             } 
+        }
+        
+        .social-link-container{
+            display: flex;
+            margin-top: 40px;
+            .social-link{
+                margin: 0px 25px 0px 0px;
+            }
+            .social-link:hover{
+                color: tomato;
+            }
+        }
+    }
+    .footer-link-container{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-column-gap: 35px;
+        width: 60%;
+        
+    }
+}
+
+
+.explore-link-container, .policy-link-container, .category-link-container{
+    a{
+        text-decoration: none;
+        color: gray;
+        margin-top: 20px;
+        display: block;
+        font-size: 14px;
+    }
+    a:hover{
+        color: tomato;
+        margin-left: 20px;
+    }
+}
+
+.footer-link-title{
+    font-size: 17px;
+    font-weight: 400;
+    margin-bottom: 35px;
+}
+
+.footer-copyright{
+    margin: 30px 0px;
+    text-align: center;
+}

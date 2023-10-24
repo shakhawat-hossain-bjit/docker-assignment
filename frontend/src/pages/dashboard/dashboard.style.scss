@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.app {
+  // display: flex;
+  display: grid;
+  grid-template-columns: 2fr 9fr;
+  font-family: "Roboto", sans-serif;
+  // height: 1000px;
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    // width: 20%;
+    background-color: #b5c2d8;
+    color: #000;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+
+  .navigation {
+    text-align: left;
+  }
+
+  .navigation > p {
+    margin-bottom: 10px;
+  }
+
+  .sidebar-btn {
+    margin-top: auto;
+    margin-right: auto;
+  }
+
+  .content {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th {
+    color: rgb(131, 130, 130);
+    font-weight: 500;
+  }
+
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+
+  thead > tr > th:first-child {
+    margin-left: 20px;
+  }
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+}

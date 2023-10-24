@@ -1,0 +1,18 @@
+.banner-color {
+    display: flex;
+    border: 2px solid none;
+    cursor: pointer;
+}
+
+.color-tip {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    /* background-color: red; */
+    margin: 0px 15px;
+    /* border: 2px solid black; */
+}
+
+.active-color-tip {
+    border: 2px solid black;
+}

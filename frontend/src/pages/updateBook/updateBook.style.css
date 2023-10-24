@@ -1,0 +1,56 @@
+.update-product-form {
+  margin-top: 70px;
+  margin-bottom: 50px;
+  form {
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+
+  .error-message {
+    color: rgb(246, 70, 70);
+    text-transform: capitalize;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  div {
+    margin: 20px 30px;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  input[type="text"],
+  input[type="number"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  textarea {
+    height: 100px;
+  }
+
+  input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  .update-btn {
+    text-align: center;
+  }
+}
