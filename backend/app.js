@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 var cors = require("cors");
 const dotenv = require("dotenv");
+dotenv.config("dotenv");
 const databaseConnection = require("./db/config");
 const HTTP_STATUS = require("./constants/statusCodes");
 const { sendResponse } = require("./utils/common");
@@ -16,7 +17,6 @@ const discountRoute = require("./routes/Discount");
 const FileRouter = require("./routes/File");
 const { getTime } = require("./server/logFile");
 const multer = require("multer");
-dotenv.config("dotenv");
 
 app.use(cors({ origin: "*" }));
 app.use(express.json()); // Parses data as JSON
