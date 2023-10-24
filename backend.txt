@@ -1,0 +1,12 @@
+app should run in 8080
+
+
+docker build . -t shakhawatshihab/backend_image
+
+docker run -d -it -p 8000:8080 --name backend_container shakhawatshihab/backend_image
+
+
+
+
+
+redclare the mongoUrl 
