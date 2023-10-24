@@ -1,4 +1,6 @@
-docker run -d --name database_container -p 27017:27017 mongo:latest
+docker build . -t shakhawatshihab/database_image
+
+docker run -d --name database_container -p 27010:27017 shakhawatshihab/database_image
 
 take the ip address an port number from here. 
 docker inspect database_container 
