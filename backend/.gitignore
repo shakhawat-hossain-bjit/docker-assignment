@@ -1,5 +1,4 @@
 /node_modules
 /server/log.json
-.env
 /server/*.txt
 /server/images
