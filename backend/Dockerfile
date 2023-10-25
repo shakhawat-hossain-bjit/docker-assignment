@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Expose the port your Express app listens on (usually 3000)
-EXPOSE 8080
+EXPOSE 8000
 
 # Command to start your Express application
 CMD ["node", "app.js"]
