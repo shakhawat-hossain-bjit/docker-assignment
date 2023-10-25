@@ -48,9 +48,9 @@ services:
     depends_on:
       - mongo
   mongo:
-    image: shakhawatshihab/book_bug_db
+    image: shakhawatshihab/database_image
     ports:
-      - "27017:27017"
+      - "27010:27017"
     networks:
       - mern-app
     volumes:
