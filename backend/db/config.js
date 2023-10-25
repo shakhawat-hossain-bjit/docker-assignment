@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 
 const databaseConnection = async (callback) => {
   try {
+    console.log("URL,  process.env.DATABASE_URL ", process.env.DATABASE_URL);
     if (process.env.DATABASE_URL) {
       const client = await mongoose.connect(process.env.DATABASE_URL);
       if (client) {

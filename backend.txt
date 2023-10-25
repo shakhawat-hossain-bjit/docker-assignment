@@ -3,10 +3,17 @@ app should run in 8080
 
 docker build . -t shakhawatshihab/backend_image
 
-docker run -d -it -p 8000:8080 --name backend_container shakhawatshihab/backend_image
+docker run -d -p 8000:8000 --name backend_container shakhawatshihab/backend_image
 
 
 
 
+redclare the mongoUrl in .env file of backend...
 
-redclare the mongoUrl 
+docker inspect database_container
+"IPAddress": "172.17.0.3",
+
+mongodb://172.17.0.3:27017/book-store
+
+connection string for compass:
+ mongodb://127.0.0.3:27017/
